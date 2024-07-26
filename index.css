@@ -17322,7 +17322,7 @@ textarea.form-control-lg {
 
 .menu-header__button-close:hover, .phone-header__button-close:hover, .menu-header__button-search:hover,
 .menu-footer__button-phone:hover, .menu-footer__button-message:hover,
-.menu-footer__button-profile:hover,  .swiper-button:hover, #menu__button-close:hover, .icon--visible-xl input:hover, #menu__button:hover,  #message__button:hover, .icons__repair-button:hover, .icons__search-button:hover, .icons input:hover  {
+.menu-footer__button-profile:hover,  .swiper-button:hover, #menu__button-close:hover, #menu__button:hover,  #message__button:hover, .icons__repair-button:hover, .icons__search-button:hover, .icons input:hover  {
   opacity: 0.9;
   transform: scale(1.1);
 }
