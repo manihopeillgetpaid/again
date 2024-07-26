@@ -17312,7 +17312,7 @@ textarea.form-control-lg {
 }
 
 .menu-header__button-close, .phone-header__button-close, .menu-header__button-search,
-.menu-footer__button-phone, .menu-footer__button-message, .menu-footer__button-profile, #menu__button:hover, #message__button:hover, .icons__contacts-button:hover,.icons__message-button:hover, .icons__profile-button:hover, #menu__button-close:hover, .icons__repair-button:hover, .icons__search-button:hover  {
+.menu-footer__button-phone, .menu-footer__button-message, .menu-footer__button-profile  {
   border: 0;
   width: 40px;
   height: 40px;
@@ -17322,7 +17322,7 @@ textarea.form-control-lg {
 
 .menu-header__button-close:hover, .phone-header__button-close:hover, .menu-header__button-search:hover,
 .menu-footer__button-phone:hover, .menu-footer__button-message:hover,
-.menu-footer__button-profile:hover {
+.menu-footer__button-profile:hover, #menu__button:hover, #message__button:hover, .icons__contacts-button:hover,.icons__message-button:hover, .icons__profile-button:hover, #menu__button-close:hover, .icons__repair-button:hover, .icons__search-button:hover {
   opacity: 0.9;
   transform: scale(1.1);
 }
