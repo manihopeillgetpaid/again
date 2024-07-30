@@ -345,28 +345,7 @@
               Скрыть
           </label>
       </div>   
-                <script>let showMoreButtonRepair = document.querySelector("#showMore-button-repair");
-let showMoreRepair = document.querySelector(".showMore-repair");
-let hiddenRepair = document.querySelectorAll(".hidden-repair");
-
-let showLessRepair = document.querySelector(".showLess--hidden-repair");
-let showLessButtonRepair = document.querySelector("#showLess-button-repair");
-showMoreButtonRepair.addEventListener("click", function () {
-  for (let i = 0; i < hiddenRepair.length; i++) {
-    hiddenRepair[i].classList.remove("hidden-repair");
-  }
-
-  showMoreRepair.classList.add("showMore--hidden-repair");
-  showLessRepair.classList.remove("showLess--hidden-repair");
-});
-showLessButtonRepair.addEventListener("click", function () {
-  for (let i = 0; i < hiddenRepair.length; i++) {
-    hiddenRepair[i].classList.add("hidden-repair");
-  }
-
-  showMoreRepair.classList.remove("showMore--hidden-repair");
-  showLessRepair.classList.add("showLess--hidden-repair");
-});</script>
+              
       <div class="header-prices header-container">
         <p class="header-text header-prices__text">
             цены на услуги
